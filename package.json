@@ -1,0 +1,23 @@
+{
+  "name": "Tailwind_Tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanisYates/Tailwind_TUT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlanisYates/Tailwind_TUT/issues"
+  },
+  "homepage": "https://github.com/AlanisYates/Tailwind_TUT#readme",
+  "dependencies": {
+    "tailwindcss": "^1.2.0"
+  }
+}
